@@ -1,0 +1,54 @@
+[33mcommit 6af715d51f0c2b311461988d8dd0f030cfd3d1a2[m[33m ([m[1;36mHEAD -> [m[1;32mlogin[m[33m)[m
+Merge: c879ed1 cdac493
+Author: Zacrek97 <luwatch12@gmail.com>
+Date:   Tue Oct 10 11:56:40 2023 -0300
+
+    Merge branch 'main' into login
+
+[33mcommit cdac49333d19d1db014c47a952b6bba6479d71e5[m[33m ([m[1;32mmain[m[33m)[m
+Author: Zacrek97 <luwatch12@gmail.com>
+Date:   Tue Oct 10 11:47:15 2023 -0300
+
+    Git 3 v2
+
+[33mcommit c879ed10b28a21297f17c949270cd31624935241[m
+Author: Zacrek97 <luwatch12@gmail.com>
+Date:   Tue Oct 10 11:41:23 2023 -0300
+
+    Login
+
+[33mcommit 5428d7a77d436ec023db515accf3563628471174[m
+Author: Zacrek97 <luwatch12@gmail.com>
+Date:   Tue Oct 10 11:28:27 2023 -0300
+
+    este es mi sexto commit
+
+[33mcommit 9bb49a513702f04c0756dcb57082987962267fdf[m[33m ([m[1;33mtag: clase_2[m[33m)[m
+Author: Zacrek97 <luwatch12@gmail.com>
+Date:   Mon Oct 9 15:47:42 2023 -0300
+
+    este es mi quinto commit
+
+[33mcommit 2e3316fdb6cf706b9ade7f5c991d7e4a14af1e39[m[33m ([m[1;33mtag: clase_1[m[33m)[m
+Author: Zacrek97 <luwatch12@gmail.com>
+Date:   Mon Oct 9 14:14:59 2023 -0300
+
+    se añade el .gitignore
+
+[33mcommit 59f0e025a7692866feea3da6b7861cd866d11e5d[m
+Author: Zacrek97 <luwatch12@gmail.com>
+Date:   Sat Oct 7 15:23:47 2023 -0300
+
+    se actualiza el texto del print
+
+[33mcommit 51a124831835f914c7c2ee6e44162bff9e493177[m
+Author: Zacrek97 <luwatch12@gmail.com>
+Date:   Sat Oct 7 15:18:30 2023 -0300
+
+    este es mi segundo commit
+
+[33mcommit ba3f7219dfd30078d2a63dde70d4f6adbc931c1c[m
+Author: Zacrek97 <luwatch12@gmail.com>
+Date:   Sat Oct 7 14:52:25 2023 -0300
+
+    este es mi primer commit
